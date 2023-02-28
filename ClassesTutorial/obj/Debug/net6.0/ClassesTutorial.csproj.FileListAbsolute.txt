@@ -1,0 +1,15 @@
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.exe
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.deps.json
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.runtimeconfig.json
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.dll
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\bin\Debug\net6.0\ClassesTutorial.pdb
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.AssemblyReference.cache
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfoInputs.cache
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.AssemblyInfo.cs
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.csproj.CoreCompileInputs.cache
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.dll
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\refint\ClassesTutorial.dll
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.pdb
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ClassesTutorial.genruntimeconfig.cache
+C:\Users\s221150\source\repos\ClassesTutorial\ClassesTutorial\obj\Debug\net6.0\ref\ClassesTutorial.dll
